@@ -4,5 +4,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git!");
         System.out.println("here is a test!");
+        System.out.println("here is a test2!");
     }
 }
